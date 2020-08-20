@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="IIS.CZN_Prilozhenie.Global" Language="C#" %>
